@@ -9,7 +9,7 @@ if (!isset($_GET['dl'])) {
 	?>
 	<input type=button value="Groepen doorzoeken" onclick="location='query.php?search';">
 	<input type=button value="E-mail ziekmelding naar je groep" onclick="location='query.php?ziek';">
-	<input type=button value="Download groups.zip" onclick="location='groups.zip';">
+	<input type=button value="Download groups.zip" onclick="location='groups.zip.htm';">
 	<input type=button value="Github" onclick="location='https://github.com/lucb1e/weirdweek';">
 	<br><br>
 	<?php 
