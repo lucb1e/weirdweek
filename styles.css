@@ -13,3 +13,71 @@
 	display: inline-block;
 	color:#201010
 }
+
+
+.GroupTitle
+{
+	text-align: center;
+	font-size: 250%;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+.LecturersGroupClass
+{
+	border-color:#800000;
+	border-style:solid;
+	width:420px;
+}
+
+
+.StudentsGroupClass
+{
+	border-color:#800000;
+	border-style:solid;
+	width:420px;
+}
+
+
+.LecturerClass
+{
+	border-color:#800000;
+	border-style:solid;
+	width:400px;
+	margin:10px;
+}
+.StudentClass
+{
+	border-color:#800000;
+	border-style:solid;
+	width:400px;
+	margin:10px;
+}
+
+
+.ScheduleClass
+{
+	width:400px;
+	border-color: #800000;
+	border-style: solid;
+}
+
+.ScheduleBlockClass
+{
+
+	border-color : #800000;
+	border-style: solid;
+}
+
+.ScheduleBlockTitleClass
+{
+	text-align:center;
+	margin-top:5px;
+}
+.ScheduleBlockGroupClass
+{
+	margin:5px;
+}
+
