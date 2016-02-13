@@ -4,4 +4,4 @@ Groepjes van de Weird Week en een tool om ze te doorzoeken of om een e-mail te g
 
 Live op http://lucb1e.com/rp/crapware/weirdshit/query.php
 
-Pull requests met meer features of bugfixes of data dumps zijn welkom.
+Pull requests met meer features of bugfixes zijn welkom.
