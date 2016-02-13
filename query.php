@@ -30,7 +30,7 @@ if (isset($_GET['search'])) {
 			foreach ($lines as $line) {
 				$fline = htmlspecialchars($line);
 				// If you want to do regex search, replace this 'if' below here.
-				if (strpos($line, $_GET['search']) !== false) {
+				if (stripos($line, $_GET['search']) !== false) {
 					echo "<a href='Group$i.html'>Group$i.html</a>: $fline<br>";
 					$hits++;
 				}
